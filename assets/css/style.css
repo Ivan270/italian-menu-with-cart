@@ -1,0 +1,11 @@
+body {
+	background: rgb(0, 115, 21);
+	background: linear-gradient(90deg,
+			rgba(0, 115, 21, 1) 50%,
+			rgba(9, 71, 121, 1) 52%,
+			rgba(209, 0, 0, 1) 52%);
+}
+
+.container {
+	width: 50rem;
+}
